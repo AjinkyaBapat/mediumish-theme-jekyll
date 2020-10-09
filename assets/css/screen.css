@@ -10,11 +10,17 @@ License: https://www.wowthemes.net/freebies-license/
 .mainheading {
     padding: 1rem 0rem;
 }
+.lead {
+    font-size: 1.00rem;
+    font-weight: 50;
+}
 
 a {
     color: #00ab6b;
     transition: all 0.2s;
 }
+
+
 
 a:hover {
     color: #038252;
@@ -51,7 +57,7 @@ pre {
 .site-content {
     min-height: 60vh;
     padding-top: 1.5rem;
-    margin-top: 57px;
+    margin-top: 100px;
     transition: all 0.4s;
 }
 
@@ -65,7 +71,7 @@ section.recent-posts {
 
 .section-title h2 {
     border-bottom: 1px solid rgba(0, 0, 0, .125);
-    margin-bottom: 25px;
+ /*   margin-bottom: 25px; */
     font-weight: 700;
     font-size: 1.4rem;
     margin-bottom: 27px;
@@ -306,11 +312,34 @@ span.post-read-more a:hover {
 
 .mainheading h1.sitetitle {
     font-family: Righteous;
+    font-weight: 500;
+    font-size: 30px;
 }
 
 .mainheading h1.posttitle {
     font-weight: 700;
     margin-bottom: 1rem;
+}
+
+.mainheading h2.postsubtitle {
+    font-weight: 500;
+    margin-bottom: 1rem;
+    font-size: 24px;
+    color: rgba(0, 0, 0, .44);
+}
+hr {
+    height: 1px;
+    margin: 2em 1em 4em 0;
+    text-align: center;
+    border-color: #777;
+    border-width: 0;
+    border-style: dotted;
+    content: "···";
+    letter-spacing: 1em;
+}
+hr:after {
+    content: "···";
+    letter-spacing: 1em;
 }
 
 .footer {
@@ -386,7 +415,7 @@ blockquote {
 }
 
 .sticky-top-offset {
-    top: 100px;
+    top: 120px;
 }
 
 @media (min-width:1024px) {
