@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Passing MongoDB Certified DBA Exam (Part 1)"
-author: ajinkya
+author: Ajinkya
 categories: [ mongoDB, cert ]
 image: assets/images/3.jpg
 beforetoc: "Recently, I sat for the MongoDB Certified DBA (C100DBA) exam and Passed it. Here's my experience about the whole process, importance of the exam, and my personal notes that I took while prepping for the exam."
