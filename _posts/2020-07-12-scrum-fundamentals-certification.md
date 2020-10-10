@@ -2,8 +2,9 @@
 layout: post
 title:  "Scrum Fundamentals Certification Exam Notes"
 author: Ajinkya
+description: Everything about the SFC Certification Exam!
 categories: [ scrum, cert ]
-image: assets/images/15.jpg
+image: assets/images/2020-07-12-Scrum-Fundamentals-Cert/Scrum.png
 ---
 Recently, I sat for the Scrum Fundamentals Certification Exam and Passed it. Here's my experience about the whole process, importance of the exam, and my personal notes that I took while prepping for the exam.
 
@@ -33,13 +34,11 @@ The purpose of the 'Scrum Fundamentals Certified' exam is to confirm you have ba
 
 ## How to apply?
 
-+ Register for free on Scrumstudy.com and get SCRUMstudy™ primary membership. Primary members get free access to the SFC course.
++ Register for free on [Scrumstudy.com](https://www.scrumstudy.com/Account/Register){:target="_blank"} and get SCRUMstudy™ primary membership. Primary members get free access to the SFC course.
 
 + Take an unproctored 40-question online exam. Answer 30 out of 40 questions correctly and get recognized as "SCRUM Fundamentals Certified" by SCRUMstudy™
 
 
 I hope you find this post useful to clear the exam. Wish you the very best with your SFC Exam!
-
-Also, don't forget to check out this awesome GDG Nuremberg Group on Meetup!
 
 ## Notes

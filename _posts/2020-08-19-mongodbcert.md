@@ -8,7 +8,7 @@ description: My Personal Experience of the exam and Notes!
 beforetoc: "Recently, I sat for the MongoDB Certified DBA (C100DBA) exam and Passed it. Here's my experience about the whole process, importance of the exam, and my personal notes that I took while prepping for the exam."
 toc: true
 ---
-![MongoDBCert]({{ site.baseurl }}/assets/images/cert.jpg)
+![MongoDBCert]({{ site.baseurl }}/assets/images/2020-08-19-mongodbcert/cert.jpg)
 
 For simplification, I have divided this post into 2 parts. This part contains all the general information about MongoDB, their Certifications, Exam format, etc.
 
@@ -22,7 +22,7 @@ Stay tuned for the 2nd Part!
 
 According to the survey conducted by Scalegrid.io, MongoDB ranks 3rd among Most popular Open Source Databases & 1st among Most Popular NoSQL Databases for the year 2019.
 
-![about]({{ site.baseurl }}/assets/images/populardbs.png)
+![about]({{ site.baseurl }}/assets/images/2020-08-19-mongodbcert/populardbs.png)
 
 You can learn more about the Survey & check where does MongoDB stands infront of its competitors by visiting this [Survey Page](https://scalegrid.io/blog/2019-open-source-database-report-top-databases-public-cloud-vs-on-premise-polyglot-persistence/){:target="_blank"}.
 
@@ -33,7 +33,7 @@ The differences between MongoDB and traditional SQL-based databases are fundamen
 
 MongoDB, on the other hand, doesn’t maintain these relationships. It’s a non-relational database, and anything you want to know about a record needs to be contained within that record itself. That said, you can choose to include data models and linking fields in your collections when creating them, but it’s up to you to enforce those models and keep links working between your MongoDB collections.
 
-![sqlnosql]({{ site.baseurl }}/assets/images/sqlvsnosql.gif)
+![sqlnosql]({{ site.baseurl }}/assets/images/2020-08-19-mongodbcert/sqlvsnosql.gif)
 
 
 ## MongoDB Certifications
@@ -85,4 +85,4 @@ MongoDB, on the other hand, doesn’t maintain these relationships. It’s a non
 
 > Stay tuned for the Part 2 of this MongoDB Certification Preparation series in which I will write about preaparation tips, study material & much more!
 
-![staytuned]({{ site.baseurl }}/assets/images/giphy.gif)
+![staytuned]({{ site.baseurl }}/assets/images/2020-08-19-mongodbcert/giphy.gif)

@@ -2,8 +2,9 @@
 layout: post
 title:  "Passing Alibaba Cloud Associate Certification Exam"
 author: Ajinkya
+description: My Personal Experience and Notes!
 categories: [ alicloud, cert ]
-image: assets/images/16.jpg
+image: assets/images/2020-07-22-passing-aca-exam/aca.png
 ---
 Recently, I sat for the Alibaba Cloud Associate exam and Passed it. Here's my experience about the whole process, importance of the exam, and my personal notes that I took while prepping for the exam.
 
@@ -41,11 +42,11 @@ You can know more about their certification programs & can enroll for the ACA Ce
 + When you submit your exam, you will see the exam score immediately. If you pass the exam, please fill in your name to generate the certificate, be careful as once your name is submitted, it cannot be modified.
 
 
-![walking]({{ site.baseurl }}/assets/images/8.jpg)
-
 ## My Experience & Preparation Tips
 
 I sat for the exam on 9th of July, 2020. I got my result & certification immediately after I submitted my exam.
+
+![ACA]({{ site.baseurl }}/assets/images/2020-07-22-passing-aca-exam/cert.png)
 
 To do well in the exam you should:
 
@@ -58,7 +59,6 @@ To do well in the exam you should:
 
 I hope you find this post useful in order for you to clear the exam. Wish you the very best with your ACA Exam!
 
-Also, don't forget to check out this awesome GDG Nuremberg Group on Meetup!
 
 ## Notes
 
