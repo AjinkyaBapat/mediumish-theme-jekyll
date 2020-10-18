@@ -3,8 +3,8 @@ layout: post
 title:  "Graphite: Monitor almost everything"
 author: Ajinkya
 description: Introduction to Graphite.
-categories: [ graphite, monitoring ]
-image: assets/images/1.jpg
+categories: [ graphite, monitoring, tutorial ]
+image: assets/images/2019-04-18-graphite-monitoring/graphite.png
 ---
 
 ## Introduction
@@ -31,9 +31,13 @@ It marked the start of a new generation of monitoring tools, making it easier th
 
 Apart from that, it does following things as well! (According to Graphite folks, not me!)
 
+![placeholder]({{ site.baseurl }}/assets/images/2019-04-18-graphite-monitoring/2.png)
+
 ## Architecture 
 
 Graphite consists of three software components:
+
+![placeholder]({{ site.baseurl }}/assets/images/2019-04-18-graphite-monitoring/3.png)
 
 1. carbon - a high-performance service that listens for time-series data
 
@@ -46,17 +50,21 @@ Metrics get fed into the stack via the Carbon service, which writes the data out
 
 ## Installation
 
-You can read about Graphite installation using Synthesize Script in detail from HERE.
+You can read about Graphite installation using Synthesize Script in detail from <a href="http://graphiteapp.org/quick-start-guides/synthesize.html">HERE</a>.
 
 Synthesize is a fully automated installation and configuration script for the Graphite stack.
 
 
 ## Getting Matrics in Graphite
 
-There is a detailed explanation of how to get your own metrics into Graphite HERE.
+There is a detailed explanation of how to get your own metrics into Graphite <a href="http://graphiteapp.org/quick-start-guides/feeding-metrics.html">HERE</a>.
 
-Also, you can find a lot of detailed information about the same on Graphite Docs
+Also, you can find a lot of detailed information about the same on <a href="http://graphite.readthedocs.io/en/latest/overview.html">Graphite Docs</a>.
 
 Here's how the Graphite Web UI looks on my machine!
+
+![placeholder]({{ site.baseurl }}/assets/images/2019-04-18-graphite-monitoring/4.png)
+![placeholder]({{ site.baseurl }}/assets/images/2019-04-18-graphite-monitoring/5.png)
+![placeholder]({{ site.baseurl }}/assets/images/2019-04-18-graphite-monitoring/6.png)
 
 I will be uploading my tutorial on the same very soon. Till then you can get the know-how of getting data; or to be more specific, getting Matrics into the Graphite Stack from the above-mentioned links.

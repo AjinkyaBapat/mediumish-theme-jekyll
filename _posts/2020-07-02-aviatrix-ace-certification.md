@@ -5,7 +5,6 @@ author: Ajinkya
 description: My Personal Experience & Notes!
 categories: [ aviatrix, cert ]
 image: assets/images/2020-07-02-Aviatrix-ace/1.png
-rating: 3
 ---
 Recently, I sat for the Aviatrix Certified Engineer exam and Passed it. Here's my experience about the whole process, importance of the exam, and my personal notes that I took while prepping for the exam.
 

@@ -5,7 +5,6 @@ author: Ajinkya
 description: Analysing Ansible Runs with ARA tool.
 categories: [ ansible, ara ]
 image: assets/images/2017-09-14-Ansible-Run-Analysis/ara-with-icon-old.png
-rating: 4.5
 ---
 Ansible can be used for a lot of things and it’s grown pretty popular for managing servers and their configuration. Today, Ansible is heavily used to deploy or test through Continuous Integration (CI).
 

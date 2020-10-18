@@ -7,9 +7,11 @@ favicon: 'assets/images/logo.png'
 baseurl: /techwisdom
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-mailchimp-list: 'http://eepurl.com/hfL64j'
+mailchimp-list: 'https://gmail.us2.list-manage.com/subscribe?u=74ffe3e32b9d0c440070bf85f&id=ec5a146300'
 include: ["_pages"]
 permalink: /:title/
+email: ajinkyabapat12@gmail.com
+
 
 # Authors
 authors:
@@ -19,8 +21,10 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: ajinkyabapat12@gmail.com
+    linkedin: https://www.linkedin.com/in/ajinkyabapat/
     web: http://iamajinkya.me
     twitter: https://twitter.com/ajinkyab12
+    stackoverflow: https://stackoverflow.com/users/6202024/ajinkya-bapat
     description: "Author of TechWisdom. I do DevOps & watch Real Madrid play!"
   john:
     name: John
